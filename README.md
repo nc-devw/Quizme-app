@@ -39,5 +39,5 @@ También puedes encontrar los demás miembros del proyecto aquí:
 -   <a href="https://github.com/ailinnakaganeku/">Ailin Nakaganeku</a>
 -   <a href="https://portfolio-franco-fiori.vercel.app/">Franco Fiori</a>
 -   <a href="https://franco-ortiz.com/">Franco Ortiz</a>
--   <a href="https://nc-devw.github.io/portfolio/">Ignacio Contreras</a>
+-   <a href="https://emiliano-alfonso.vercel.app/">Emiliano Alfonso</a>
 -   <a href="https://github.com/tinsanchez00/">Martín Sánchez</a>
